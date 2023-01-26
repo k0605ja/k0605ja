@@ -1,6 +1,6 @@
 <header>
   <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F1C4D8&height=180&%20render" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F1C4D8&height=150&%20render" />
   </div>
 </header>
 
@@ -75,7 +75,7 @@
 <p align="center">
 <br>
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F1C4D8&height=180&section=footer&%20render&reversal=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F1C4D8&height=150&section=footer&%20render&reversal=true" />
 </footer>
 
     
