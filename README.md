@@ -62,7 +62,7 @@
 <summary><h3><b> 🏆 BOJ 🏆 </b></h3></summary>
 <div markdown="1">
 <p align="center">
-<img src= "http://mazassumnida.wtf/api/v2/generate_badge?boj=k0605ja"(https://solved.ac/k0605ja"/>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=k0605ja)](https://solved.ac/k0605ja) 
 
 </div>
 </details>  
