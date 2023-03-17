@@ -7,7 +7,7 @@
 <body>
   <div align="center">
     
-<h3><b> 🤍 About Me 🤍 </b></h3>
+<h3><b> ❤️ About Me ❤️ </b></h3>
 백엔드를 공부하고 있습니다.
 <br>
 블로그에 기록하는 것을 좋아합니다.
