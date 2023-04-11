@@ -8,28 +8,28 @@
   <div align="center">
     
 <h3><b> ❤️ About Me ❤️ </b></h3>
-백엔드를 공부하고 있습니다.
+백엔드 및 데브옵스를 공부하고 있습니다.
     
-공부한 내용을 블로그에 기록합니다.
+공부한 내용을 블로그에 남깁니다.
       
 <br>
 <br>
 <br>
 
 <h3><b> 💌 Contact </b></h3>
-<!-- <a href="mailto:k0605ja@gmail.com/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:k0605ja@gmail.com"
-</a> -->
-<a href="mailto:k0605ja2@naver.com/"><img src="https://img.shields.io/badge/Naver mail-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:k0605ja2@naver.com"
-</a>  
+<a href="mailto:k0605ja@gmail.com/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:k0605ja@gmail.com"
+</a>
+<!-- <a href="mailto:k0605ja2@naver.com/"><img src="https://img.shields.io/badge/Naver mail-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:k0605ja2@naver.com"
+</a>   -->
   
 <br>
 <br>
 <br>
   
 <h3><b>📜 Study Log  </b></h3>
-<a href="https://www.notion.so/4f6254d5aa9f41d9bc2318fdb030478f"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
 <a href="https://ofglen.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
-  
+<a href="https://www.notion.so/4f6254d5aa9f41d9bc2318fdb030478f"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
+
 </a>
 
 <br>
